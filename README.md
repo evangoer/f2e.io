@@ -1,10 +1,7 @@
-******
-F2E.io
-******
+# F2E.io
 
 A repository of documentation for frontend engineering.
 
-License
-=======
+## License
 
 This work is dedicated to the public domain.
